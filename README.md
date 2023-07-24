@@ -1,3 +1,5 @@
+https://gaminglaptop.deals/gaming-laptop-resources/what-to-look-for-when-buying-a-gaming-laptop/
+
 ## GPU
 
 ### GPU Power limit
@@ -23,6 +25,8 @@ RTX 3070: Excellent performance
 RTX 4080: also too expensive. RTX 4070 might not be worth it?
 
 ## CPU
+The processor (or CPU) is the brain of your computer. The GPU starts to matter more when gaming at higher resolutions, particularly at 1440p and above. Some games depend more on the CPU than GPU, it varies based on the resolution, settings and game engine. Look for a laptop with a high-performance processor, such as an Intel Core i5/i7 or an AMD Ryzen 5/7 from the last 1-3 years. These processors will provide plenty of power for even the most demanding games.
+
 
 in 2022, we reach 8 core 16/24 threads. More core/threads = run more things at the same time.
 
@@ -46,6 +50,7 @@ Never listed on the spec. Check laptop reviews. More cores need more power to ru
 with new DDR5, it doesn't matter if you have dual channel or not
 
 ## Storage
+You’ll want a laptop with a solid-state drive (SSD) that is at least 512GB, but 1TB is preferable. With the size of games these days, it’s really not worth getting anything smaller. A laptop with a spare M.2 slot for an extra SSD upgrade in future would also be nice to have.
 
 Most comes with 256GB SSD
 AT least 512GB is the minimum
@@ -56,7 +61,9 @@ If they only have one slot then it might be a red flag.
 
 DO NOT BUY HARD DRIVES, only SSD is good.
 
-## Sized and Weight
+## Size and Weight
+
+If you plan on taking your gaming laptop with you on the go, you’ll want to pay attention to the size and weight. Laptops with 15-inch or 17-inch displays are the most popular for gaming, though 16 and 18-inch are becoming more popular in 2023. If you’re looking for something more portable, consider a laptop with a 13-inch or 14-inch display, but you may want to plug in an external monitor for gaming. Keep in mind that powerful tech gets more expensive at smaller sizes!
 
 13,14inch for portability but it's too small.
 15inch is the sweet spot.
@@ -114,6 +121,8 @@ It it has G-sync then it should have MUX Switch.
 Can be controlled through NVIDIA panel
 
 ## PORTS
+
+Some laptops come with a lot of ports, and others come with much fewer. Think about the amount of USB-A and USB-C devices you might need to connect, as well as Ethernet and SD card slots. Even the position of the ports needs to be considered. Are they fine on the sides where your hands might sit, or would you prefer them on the back with cables out of the way?
 
 Usually 3 USB ports with typeC
 
