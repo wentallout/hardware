@@ -82,6 +82,8 @@ If you go 1440 => pick 17inch
 
 ## Screen refresh rate
 
+https://jarrods.tech/does-connecting-a-monitor-to-gaming-laptop-increase-refresh-rate/
+
 60Hz is the lowest. 120Hz are usually bad?
 144Hz is usually better (but depends on panel)
 
