@@ -17,12 +17,14 @@ Nice performance boost in games. AMD only get you FSR.
 ### Good choice?
 
 RTX 3060, Radeon 6600m: Good
-
 RTX 3070: Excellent performance
-
 3080: too expensive
-
 RTX 4080: also too expensive. RTX 4070 might not be worth it?
+
+3060RTX laptops are all you need for 1080p gaming.
+3060RTX 130W GPUs beat 3070RTX 115W GPUs.
+3070RTX 140W are better than 3080RTX GPUs running at 115W.
+3080RTX are only a good purchase past 115W.
 
 ## CPU
 The processor (or CPU) is the brain of your computer. The GPU starts to matter more when gaming at higher resolutions, particularly at 1440p and above. Some games depend more on the CPU than GPU, it varies based on the resolution, settings and game engine. Look for a laptop with a high-performance processor, such as an Intel Core i5/i7 or an AMD Ryzen 5/7 from the last 1-3 years. These processors will provide plenty of power for even the most demanding games.
