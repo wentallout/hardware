@@ -137,10 +137,9 @@ HDMI 2.1 which supports 4K MOnitor at 144Hz. ASUS for some reason stick to 2.0
 List of Laptop Battery Life: https://jarrods.tech/list-of-laptop-battery-life/
 100WH is the max for laptop batteries. but it still depends on how power hungry the laptop is.
 
-## OS
+## Printer
 
-Windows or Linux. Most people will go Windows 11
-
+Most printers... are scam, especially Inkjet printers. Epson Ecotank is not bad? cuz they hold a lot of ink
 
 
 
