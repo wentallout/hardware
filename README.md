@@ -139,7 +139,7 @@ List of Laptop Battery Life: https://jarrods.tech/list-of-laptop-battery-life/
 
 ## Printer
 
-Most printers... are scam, especially Inkjet printers. Epson Ecotank is not bad? cuz they hold a lot of ink
+Most printers... are scam, especially Inkjet printers. Epson Ecotank is not bad? cuz they hold a lot of ink. SOme people say lasers are good, need to investigate more.
 
 
 
