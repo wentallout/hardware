@@ -32,6 +32,11 @@ The processor (or CPU) is the brain of your computer. The GPU starts to matter m
 
 in 2022, we reach 8 core 16/24 threads. More core/threads = run more things at the same time.
 
+### How to check CPU health?
+
+For Intel: try Intel Processor Diagnostic Tool
+
+
 ### CPU Power Limit
 
 Never listed on the spec. Check laptop reviews. More cores need more power to run.
