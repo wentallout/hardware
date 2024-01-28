@@ -1,5 +1,7 @@
 https://gaminglaptop.deals/gaming-laptop-resources/what-to-look-for-when-buying-a-gaming-laptop/
 
+https://jarrods.tech/
+
 ## GPU
 
 ### GPU Power limit
