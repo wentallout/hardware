@@ -148,6 +148,23 @@ List of Laptop Battery Life: https://jarrods.tech/list-of-laptop-battery-life/
 
 Most printers... are scam, especially Inkjet printers. Epson Ecotank is not bad? cuz they hold a lot of ink. SOme people say lasers are good, need to investigate more.
 
+## Game Settings
+
+Anisotrpic filtering: should be high like 16x (no performance hit)
+Anti-aliasing: fix jagged edges (FXAA is the lightweight option, MSAA is more precise, TAA cause ghosting and blur, DLAA is more demanding but beautiful)
+Shadows: they are very demanding on your hardware
+Ambient Occlusion: add tiny shadows (SSAO is the most common solution, HBAO plus is better)
+Ray Tracing: lets ignore this
+Upscaling: render at lower solution and then upscale to native resolution (DLSS, FSR is AMD solution, XeSS is intel solution)
+Frame Generation: modern GPU can add fake frames in the middle -> Input latency
+Vsync: fix screen tearing but cause input delay
+HDR: expand black and white
+Motion blur: ignore this
+Depth of Field: ignore this
+Post-processing: tweaks the final image,, like instagram filter for your game (Bloom,, Chromatic aberration, film grain, lens flares, vignette, color grading)
+LOD: its a trick game used to improve performance, render distance
+
+
 
 
 
